@@ -1,0 +1,31 @@
+{
+ {
+   "student id": "604234007",
+   "firstname": "Suwaibah",
+   "lastname": "Wani",
+   "nickname": "Bah",
+   "birthDate": "1999-05-10", 
+   "picture": "https://raw.githubusercontent.com/604234007CS/Lab4/master/bah.jpg" 
+ }
+},
+
+{
+ {
+   "student id": "604234008",
+   "firstname": "Danai",
+   "lastname": "Jaroenpapakdeesakul",
+   "nickname": "Kan",
+   "birthDate": "1994-04-13", 
+   "picture": "https://raw.githubusercontent.com/604234007CS/Lab4/master/kan.jpg" 
+ }
+},
+{
+ {
+   "student id": "604234017",
+   "firstname": "Fatimah",
+   "lastname": "Sa-ah",
+   "nickname": "Far",
+   "birthDate": "1998-07-08", 
+   "picture": "https://raw.githubusercontent.com/604234007CS/Lab4/master/far.jpg" 
+ }
+}
