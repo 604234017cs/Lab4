@@ -14,7 +14,9 @@ import { HttpClientModule } from '@angular/common/http';
   declarations: [
     MyApp,
     HomePage,
-    BookListPage
+    BookListPage,
+    BookdetailPage,
+    BookEditPage
   ],
   imports: [
     HttpClientModule,
@@ -25,7 +27,9 @@ import { HttpClientModule } from '@angular/common/http';
   entryComponents: [
     MyApp,
     HomePage,
-    BookListPage
+    BookListPage,
+    BoodetailPage,
+    BookEditPage
   ],
   providers: [
     StatusBar,
